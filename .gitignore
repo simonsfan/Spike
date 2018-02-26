@@ -1,0 +1,35 @@
+#java
+*.class
+.springBeans
+.project
+.classpath
+
+# generated files
+*/**/target/
+**/target/
+dist/
+bin/
+gen/
+build/
+temp/
+tmp/
+test-output
+.externalToolBuilders
+.metadata
+.settings/
+META-INF/
+.idea/
+## generic files to ignore
+.svn/
+*~
+*.tmp
+*.bak
+*.swp
+*.log
+*.lock
+*.DS_Store
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+
